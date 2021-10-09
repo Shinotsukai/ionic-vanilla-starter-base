@@ -1,0 +1,25 @@
+ion-content{
+    --padding-top:40%;
+    --padding-start:10%;
+    --padding-end:10%;
+}
+
+ion-item{
+    --padding-start:10px;
+    --padding-end:10px;
+}
+
+.input-group {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    border: solid 2px #fff;
+}
+
+.errors{
+    font-size: small;
+    color: #fff;
+    background: var(--ion-color-danger);
+    padding: 5px 0 5px 16px;
+}
